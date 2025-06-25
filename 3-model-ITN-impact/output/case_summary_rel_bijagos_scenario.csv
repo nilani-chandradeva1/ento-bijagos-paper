@@ -1,0 +1,4 @@
+"","sleeping_scenario","net_type","lower","mean","upper"
+"1","60% population in bed at night","pyrethroid only",38.3822376581247,55.8625266949639,71.8195964020469
+"2","80% population in bed at night","pyrethroid only",55.6619795914217,71.0310777283576,81.2417197132744
+"3","Observed data on population in bed at night","pyrethroid only",77.0592739310185,86.3792012930675,89.0975878468446
