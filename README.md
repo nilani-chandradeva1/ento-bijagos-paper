@@ -1,6 +1,6 @@
 **Code for: "Simplifying mosquito sampling to estimate community biting exposure and indoor malaria vector control impact".**
 
-\*\*Authors: Nilani Chandradeva, Elizabeth Pretorius, Eunice Teixera da Silva, Harry Hutchims, Fatucha Barri, Isaac J. Stopard, Hugo Soubrier, Cesario Martins, Amabelia Rodrigues, Jose Ernesto Nante, Paulo Djata, Joseph D. Challenger, Thomas S. Churcher\*, Ellie Sherrard-Smith\* and Anna Last \*
+\*\*Authors: Nilani Chandradeva, Elizabeth Pretorius, Eunice Teixeira da Silva, Harry Hutchims, Fatucha Barri, Isaac J. Stopard, Hugo Soubrier, Cesario Martins, Amabelia Rodrigues, Jose Ernesto Nante, Paulo Djata, Joseph D. Challenger, Thomas S. Churcher\*, Ellie Sherrard-Smith\* and Anna Last \*
 
 (\*) senior authors
 
